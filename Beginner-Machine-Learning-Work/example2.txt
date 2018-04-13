@@ -1,0 +1,8 @@
+Name, Age,Sex 
+John, 23, M  
+Ram, 30, M  
+Ali,29, M  
+Seeta, 20, F 
+julia, 18, F 
+Shami, 35, F 
+End, End, End 

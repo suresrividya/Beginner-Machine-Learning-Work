@@ -1,0 +1,8 @@
+Name,Age,Sex //this is header
+Hpandey,23,M  
+KPandey,30,M  
+Dhoni,29,M  
+Virat,20,F 
+mithaali,18,F 
+Shami,35,F 
+End,End,End // this is footer
